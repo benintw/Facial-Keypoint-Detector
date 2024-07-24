@@ -86,19 +86,15 @@ python train.py
 
 ### Functions
 
-train.py
-train_one_epoch(loader, model, optimizer, loss_fn, device): Trains the model for one epoch.
-main(): Main function to setup data loaders, model, loss function, optimizer, and start the training process.
-split_data.py
-manual_split_training_data(): Splits the training data into train_4, val_4, train_15, and val_15 sets and saves them as CSV files.
+- train.py
+- train_one_epoch(loader, model, optimizer, loss_fn, device): Trains the model for one epoch.
+- main(): Main function to setup data loaders, model, loss function, optimizer, and start the training process.
+- split_data.py
+- manual_split_training_data(): Splits the training data into train_4, val_4, train_15, and val_15 sets and saves them as CSV files.
 
 ### Configuration
 
 The config.py file contains configuration settings such as batch size, learning rate, number of epochs, and file paths. Modify this file to adjust the training parameters.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgements
 
