@@ -1,8 +1,0 @@
-0000000000000000000000000000000000000000 10f5cbeb0395d2f1e7578417c4707484a7f4da38 benintw <chen.ben968@gmail.com> 1721824617 +0800	commit (initial): first commit
-10f5cbeb0395d2f1e7578417c4707484a7f4da38 10f5cbeb0395d2f1e7578417c4707484a7f4da38 benintw <chen.ben968@gmail.com> 1721824641 +0800	Branch: renamed refs/heads/main to refs/heads/main
-10f5cbeb0395d2f1e7578417c4707484a7f4da38 10f5cbeb0395d2f1e7578417c4707484a7f4da38 benintw <chen.ben968@gmail.com> 1721824723 +0800	Branch: renamed refs/heads/main to refs/heads/main
-10f5cbeb0395d2f1e7578417c4707484a7f4da38 6640f8601675ab0760fc5bcaa747034ca86943a9 benintw <chen.ben968@gmail.com> 1721824830 +0800	commit: added .csv to gitignore
-6640f8601675ab0760fc5bcaa747034ca86943a9 4d2fa60c8e470d26104dbcbeeb22b807b95eed9f benintw <chen.ben968@gmail.com> 1721825071 +0800	commit: deleted .tar
-4d2fa60c8e470d26104dbcbeeb22b807b95eed9f 4d2fa60c8e470d26104dbcbeeb22b807b95eed9f benintw <chen.ben968@gmail.com> 1721825336 +0800	Branch: renamed refs/heads/main to refs/heads/main
-4d2fa60c8e470d26104dbcbeeb22b807b95eed9f 07e2b50db5922758e6ab162b49a69b6666d4bd5d benintw <chen.ben968@gmail.com> 1721825439 +0800	commit: add train.py
-07e2b50db5922758e6ab162b49a69b6666d4bd5d 26e869e483968857e8f37e0aa2e631fae9641647 benintw <chen.ben968@gmail.com> 1721825899 +0800	commit: Remove CSV files from repository
